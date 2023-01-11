@@ -12,12 +12,13 @@
 <a href="mailto:isaacki1003@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
+<br>
 
 ## ℹ About Me
-I studied Electrical Engineering at UCLA
-I graduated from App Academy in January 2023
-I love discovering new music and traveling
-Please do not hesitate to reach out!
+I studied Electrical Engineering at UCLA. <br>
+I graduated from App Academy in January 2023. <br>
+I love discovering new music and traveling. <br>
+Please do not hesitate to reach out! <br>
 
 ## 🔢 Github Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacki1003)](https://github.com/anuraghazra/github-readme-stats)
