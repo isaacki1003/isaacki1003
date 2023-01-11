@@ -1,4 +1,4 @@
-# Hi there! My name is Isaac Ki.
+# Hi there! My name is Isaac 😄
 
 ## 📫 How to Reach Me
 <a href='https://www.linkedin.com/in/isaacki1003/' target="_blank">
