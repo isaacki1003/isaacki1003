@@ -1,7 +1,7 @@
 # Hi there! I'm Isaac 😄
 
 ## 📫 How to Reach Me
-<a href='https://www.linkedin.com/in/isaacki1003/' target="_blank">
+<a href='https://www.linkedin.com/in/isaac-ki-973894111//' target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
