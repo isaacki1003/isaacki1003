@@ -16,7 +16,7 @@
 
 ## ℹ About Me
 I studied Electrical Engineering at UCLA and recently graduated from App Academy this past January. <br>
-In my free time, I love discovering new music and traveling. <br>
+In my free time, I love to discover new music and travel. <br>
 Please do not hesitate to reach out! <br>
 
 ## 🔢 Github Statistics
